@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312858371572",
+    "project_id": "my-doey",
+    "storage_bucket": "my-doey.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312858371572:android:c07134426473b04ac2c5a1",
+        "android_client_info": {
+          "package_name": "com.example.mydoey1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrr1jDa-Y_tuKyj53sbKWCH1PXi6plvAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

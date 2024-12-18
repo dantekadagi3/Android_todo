@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyDoey1" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!--This is the action bar color-->
+        <item name="colorPrimary">@color/main</item>
+        <item name="colorPrimaryVariant">@color/primary</item>
+    </style>
+
+    <style name="Theme.MyDoey1" parent="Base.Theme.MyDoey1" />
+</resources>
