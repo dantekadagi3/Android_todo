@@ -27,8 +27,8 @@
                 android:layout_marginTop="32dp"
                 android:layout_marginEnd="8dp"
                 android:buttonTint="@color/primary"
-                android:text="This is the first task"
-                android:textSize="28sp"
+                android:text="@string/this_is_the_first_task"
+                android:textSize="18sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="parent"
@@ -41,7 +41,7 @@
                 android:layout_marginTop="8dp"
                 android:layout_marginEnd="656dp"
                 android:text="31-d-2020"
-                android:textSize="18sp"
+                android:textSize="14sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/mcheckbox" />
 
